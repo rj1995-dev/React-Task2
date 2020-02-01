@@ -6,7 +6,7 @@ const Navbar = ({title}) => {
     <nav className="navbar nav-style mx-auto  bg-danger ">
       <h2 className="text-white ">
         <i className="fab fa-github p-1" />
-        {(title = "Github User Finder")}
+        {(title = "Github User")}
       </h2>
       <ul>
         <li>
